@@ -1,5 +1,6 @@
 ## I'm Kurtsley (╯°□°）╯︵ ┻━┻
 - I'm Currently working on:\
+  [audacity](https://github.com/audacity/audacity)\
   [OpenApoc](https://github.com/OpenApoc/OpenApoc)\
   [cdogs-sdl](https://github.com/cxong/cdogs-sdl)
 
