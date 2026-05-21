@@ -4,6 +4,6 @@
   [OpenApoc](https://github.com/OpenApoc/OpenApoc)\
   [cdogs-sdl](https://github.com/cxong/cdogs-sdl)
 
-![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurtsley&theme=transparent)
+![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurtsley&theme=vue)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kurtsley&theme=transparent)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurtsley&theme=transparent)
